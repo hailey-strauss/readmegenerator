@@ -37,7 +37,7 @@ const questions = [
   {
     type: "input",
     message: "Who else contributed to this application?",
-    name: "contributers",
+    name: "contributors",
   },
   {
     type: "input",

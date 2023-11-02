@@ -30,13 +30,15 @@ Here are a couple of screenshots of what the Readme Generator looks like.
 
 ## Contributors
 
-undefined
+Tutor: Dane
 
 ## Email
 
 hstrauss2001@gmail.com
 
 ## Deplyed Link
+
+https://hailey-strauss.github.io/readmegenerator/
 
 ## Github
 

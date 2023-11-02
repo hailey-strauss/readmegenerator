@@ -2,15 +2,15 @@
 
 ## Table of Contents
 
-1. [ Description. ](#Description)
-2. [License.](#License)
-3. [Installation.](#Installation)
-4. [ Usage. ](#Usage)
-5. [ Video. ](#Video)
-6. [ Contributors. ](#Contributors)
-7. [ Email. ](#Email)
-8. [ Deployed Link. ](#DeployedLink)
-9. [ Github. ](#Github)
+1. [ Description ](#Description)
+2. [License](#License)
+3. [Installation](#Installation)
+4. [ Usage ](#Usage)
+5. [ Video ](#Video)
+6. [ Contributors ](#Contributors)
+7. [ Email ](#Email)
+8. [ Deployed Link ](#DeployedLink)
+9. [ Github ](#Github)
 
 ## Description
 

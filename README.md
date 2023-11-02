@@ -28,6 +28,9 @@ Here are a couple of screenshots of what the Readme Generator looks like.
 
 ## Video
 
+https://github.com/hailey-strauss/readmegenerator/assets/126025611/e0c7e354-8db1-40e2-b68f-f0ab23428a88
+
+
 ## Contributors
 
 Tutor: Dane
